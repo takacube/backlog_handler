@@ -1,11 +1,20 @@
 # backlog-handle-app
 
-
-
-
 #### this function is Triggered by the events from backlog and slack
 
 #### in the future it would be great if users can create task from slack
+
+システム関連図
+![image](https://user-images.githubusercontent.com/83538851/180487108-37a1ebe2-8af3-4910-b6d4-755bd67560e1.png)
+
+ユースケース図
+![image](https://user-images.githubusercontent.com/83538851/180489342-c5ddb141-f765-47d2-8e20-d04c765f0178.png)
+
+
+オブジェクト図
+![image](https://user-images.githubusercontent.com/83538851/180490490-693fe39f-c2a9-4a02-a5a5-c8c16503017d.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/83538851/180405943-d7591b83-53b9-4cf0-a185-05cc43a629e4.png)
 
